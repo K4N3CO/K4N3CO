@@ -8,7 +8,6 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Android_Security-green?style=for-the-badge&logo=android&logoColor=white" alt="Android Security">
   <img src="https://img.shields.io/badge/Focus-AI_Red__Teaming-red?style=for-the-badge&logo=target&logoColor=white" alt="AI Red Teaming">
-  <img src="https://komarev.com/ghpvc/?username=K4N3CO&style=for-the-badge&color=00f2ff" alt="Profile Views">
 </p>
 
 ---
