@@ -79,7 +79,7 @@
         <h3>🤖 JailBreak-Ai</h3>
         <p><b>Advanced Android AI Red-Teaming Engine</b></p>
         <p>Mobile app for Jailbreaking most Ai models. It generates high-fidelity priming vectors to evaluate LLM safety guardrails, alignment robustness, and boundary security across GPT-4o, Claude 3.5, Grok, Gemini and many others.</p>
-        <p align="center"><img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" /></p>
+       <br><p align="center"><img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" /></p>
       </td>
     </tr>
   </table>
