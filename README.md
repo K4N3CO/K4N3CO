@@ -13,36 +13,47 @@
 ---
 
 <div align="center">
-  <h2>⚡ About Me</h2>
-  <pre>
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ OPERATOR   : K4N3CO (K4N3CO.LABS)                                           │
-│ DOMAIN     : Mobile Security, AI Safety Filter Bypassing, C2 Infrastructure │
-│ STATUS     : Building Hardened Offensive & Defensive Security Frameworks    │
-└─────────────────────────────────────────────────────────────────────────────┘
-  </pre>
+  <h2>⚡ System Operator</h2>
+  <table style="display: inline-block;">
+    <tr>
+      <td align="left" style="border: none;">
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│ IDENTITY   : K4N3CO // K4N3CO.LABS                                              │
+│ DOMAIN     : Mobile Security • AI Safety Engineering • C2 Systems               │
+│ CORE REPOS : Lab-RATS • JailBreak-Ai • PwnShop-Mobile • PWN//NET-Toolkit        │
+│ OBJECTIVE  : Constructing Hardened Offensive & Defensive Software Frameworks    │
+│ STATUS     : ONLINE // Debugging/Testing                                        │
+└─────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
-  
+---
+
 <div align="center">
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Specializing In:</h3>
-<pre>
+    <td width="50%" valign="center">
+  <div align="center">    
+  <h2>Specializing In</h2>
+<div align="left"><pre>
 - Mobile App Development
 - Android Exploitation
 - AI Guardrail Evaluation
 - C2 Architecture
-- Physical Lock Bypassing/Security
+- Physical Lock Bypass/Security
 </pre>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Core Projects:</h3>
-<pre>
-- Lab-RATS (Remote Admin Framework)
-- JailBreak-Ai (LLM Red-Teaming Suite)
-- PwnShop-Mobile (Mobile App Hacking)
+  <div align="center">    
+  <h2>Projects</h2>
+<pre><div align="left">
+- <a href="https://github.com" style="text-decoration: none;"><b>Lab-RATS</b></a> (Remote Admin Framework)
+- <a href="https://github.com" style="text-decoration: none;"><b>JailBreak-Ai</b></a> (LLM Red-Teaming Suite)
+- <a href="https://github.com" style="text-decoration: none;"><b>PwnShop-Mobile</b></a> (Mobile App Hacking)
 - And More...
 </pre>
     </td>
@@ -64,27 +75,39 @@
 ---
 
 <div align="center">
-  <h2>🏆 Featured Arsenal:</h2>
+  <h2>🏆 Featured Projects:</h2>
 
   <table width="100%">
     <tr>
-      <td width="50%" valign="top" align="left">
-        <h3>🐀 Lab-RATS (v1.6)</h3>
-        <p><b>(L.A.B-R.A.T.S)<br>Lightweight Android-Based Remote Admin Tool for Security</b></p>
+      <td width="50%" valign="top" align="center">
+        <h2>
+          <a href="https://github.com" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">Lab-RATS</span></a>
+        </h2>
+        <p><b>Lightweight Android-Based Remote Admin Tool for Security<br>(L.A.B-R.A.T.S)</p>
         <p>Tactical Android-C2 relay featuring direct IPv6 peer-to-peer binding, zero-latency reverse long-polling proxy tunneling, covert optics/acoustics surveillance, automated data vault exfiltration & much more.</p>       
-        <p align="center"><img src="https://img.shields.io/github/stars/K4N3CO/Lab-RATS-v1.6" /></p>
+        <p align="center">
+          <a href="https://github.com">
+            <img src="https://img.shields.io/github/stars/K4N3CO/Lab-RATS-v1.6" />
+          </a>
+        </p>
       </td>
 
-  <td width="50%" valign="top" align="left">
-        <h3>🤖 JailBreak-Ai</h3>
+  <td width="50%" valign="top" align="center">
+        <h2>
+          <a href="https://github.com" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">JailBreak-Ai</span></a>
+        </h2>
         <p><b>Advanced Android AI Red-Teaming Engine</b></p>
         <p>Mobile app for Jailbreaking most Ai models. It generates high-fidelity priming vectors to evaluate LLM safety guardrails, alignment robustness, and boundary security across GPT-4o, Claude 3.5, Grok, Gemini and many others.</p>
-       <br><p align="center"><img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" /></p>
+        <p align="center">
+          <a href="https://github.com">
+          <br><img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
-
+      
 ---
 
 <div align="center">
@@ -95,9 +118,9 @@
   
 ---
 
-## ☕ Support My Research & Development
+## Support My Research & Development
 
-**If my security research or tools have helped you**,<br>**please consider supporting further open-source development ventures**!
+**If my Security Research, Tools or Apps have been useful for your projects**,<br>**please consider supporting further open-source development ventures**!
 
 <a href="https://buymeacoffee.com/k4n3co" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
@@ -108,3 +131,5 @@
 ```
 bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
 ```
+### Thanks!
+> *"The ones who MIND dont matter... The ones who MATTER don't mind..."*
