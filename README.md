@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/K4N3CO?style=for-the-badge&logo=github&color=gold&labelColor=0a0a0a" alt="Followers">
   </a>
   <img src="https://img.shields.io/badge/Focus-Android_Security-green?style=for-the-badge&logo=android&logoColor=white" alt="Android Security">
-  <img src="https://img.shields.io/badge/Focus-Red__Teaming-red?style=for-the-badge&logo=target&logoColor=white" alt="AI Red Teaming">
+  <img src="https://img.shields.io/badge/Status-Red__Teaming-red?style=for-the-badge&logo=target&logoColor=white" alt="AI Red Teaming">
 </p>
 
 ---
