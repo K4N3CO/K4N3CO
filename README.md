@@ -4,10 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/K4N3CO">
-    <img src="https://img.shields.io/github/followers/K4N3CO?style=for-the-badge&logo=github&color=gold&labelColor=0a0a0a" alt="Followers">
-  </a>
   <img src="https://img.shields.io/badge/Focus-Android_Security-green?style=for-the-badge&logo=android&logoColor=white" alt="Android Security">
-  <img src="https://img.shields.io/badge/Status-Red__Teaming-red?style=for-the-badge&logo=target&logoColor=white" alt="AI Red Teaming">
+  <img src="https://img.shields.io/badge/Status-upgrading-red?style=for-the-badge&logo=target&logoColor=white" alt="AI Red Teaming">
 </p>
 
 ---
@@ -19,11 +17,11 @@
       <td align="left" style="border: none;">
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│ IDENTITY   : K4N3CO // K4N3CO.LABS                                              │
-│ DOMAIN     : Mobile Security • AI Safety Engineering • C2 Systems               │
+│ IDENTITY   : K4N3CO // K4N3CO.LABS // KAN3C0                                    │
+│ DOMAIN     : Mobile Security • AI Research • C2 System Dev                      │
 │ CORE REPOS : Lab-RATS • JailBreak-Ai • PwnShop-Mobile • PWN//NET-Toolkit        │
 │ OBJECTIVE  : Constructing Hardened Offensive & Defensive Software Frameworks    │
-│ STATUS     : ONLINE // Debugging/Testing                                        │
+│ STATUS     : ONLINE // UPGRADING                                                │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
       </td>
@@ -40,21 +38,21 @@
   <div align="center">    
   <h2>Specializing In</h2>
 <div align="left"><pre>
-- Mobile App Development
-- Android Exploitation
-- AI Guardrail Evaluation
-- C2 Architecture
-- Physical Lock Bypass/Security
+* Mobile App Development
+* Android Exploit Research
+* AI Guardrail Evaluation
+* C2 Systems Architecture
+* Physical Lock Bypass/Security
 </pre>
     </td>
     <td width="50%" valign="top">
   <div align="center">    
   <h2>Projects</h2>
 <pre><div align="left">
-- <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration: none;"><b>Lab-RATS</b></a> (Remote Admin Framework)
-- <a href="https://github.com/K4N3CO/JailBreak-Ai" style="text-decoration: none;"><b>JailBreak-Ai</b></a> (LLM Red-Teaming Suite)
-- <a href="https://github.com/K4N3CO/PwnShop-Mobile" style="text-decoration: none;"><b>PwnShop-Mobile</b></a> (Mobile App Hacking)
-- And More...
+* <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration: none;"><b>Lab-RATS</b></a> - Remote Admin Framework
+* <a href="https://github.com/K4N3CO/JailBreak-Ai" style="text-decoration: none;"><b>JailBreak-Ai</b></a> - Ai Red-Teaming Suite
+* <a href="https://github.com/K4N3CO/PwnShop-Mobile" style="text-decoration: none;"><b>PwnShop-Mobile</b></a> - Mobile App Hacking/Game
+* <a href="https://github.com/K4N3CO/PWNNET-Toolkit" style="text-decoration: none;"><b>PWNNET-Toolkit</b></a> - Pentesting Toolkit
 </pre>
     </td>
   </tr>
@@ -81,7 +79,7 @@
     <tr>
       <td width="50%" valign="top" align="center">
         <h2>
-          <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">Lab-RATS</span></a>
+          <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">Lab-RATS-v1.6</span></a>
         </h2>
         <p><b>Lightweight Android-Based Remote Admin Tool for Security<br>(L.A.B-R.A.T.S)</p>
         <p>Tactical Android-C2 relay featuring direct IPv6 peer-to-peer binding, zero-latency reverse long-polling proxy tunneling, covert optics/acoustics surveillance, automated data vault exfiltration & much more.</p>       
