@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&pause=900&color=00F2FF&center=true&vCenter=true&width=800&height=70&lines=K4N3CO+LABS;ANDROID+SECURITY+RESEARCHER;RED-TEAMING+%26+EXPLOITATION;SYSTEMS+%26+C2+ARCHITECTURE;THE+ONES+WHO+MIND+DONT+MATTER;THE+ONES+WHO+MATTER+DONT+MIND" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&pause=900&color=00F2FF&center=true&vCenter=true&width=800&height=70&lines=K4N3CO+LABS;ANDROID+SECURITY+RESEARCH;RED-TEAMING+%26+EXPLOITATION;SYSTEMS+%26+C2+ARCHITECTURE;THE+ONES+WHO+MIND+DONT+MATTER;THE+ONES+WHO+MATTER+DONT+MIND" alt="Typing Banner" />
 </p>
 
 <p align="center">
