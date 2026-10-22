@@ -90,15 +90,15 @@
         </p>
       </td>
 
-  <td width="50%" valign="top" align="center">
-        <h2>
-          <a href="https://github.com/K4N3CO/JailBreak-Ai" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">JailBreak-Ai</span></a>
+   <td width="50%" valign="top" align="center">
+     <h2>
+       <a href="https://github.com/K4N3CO/JailBreak-Ai" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">JailBreak-Ai</span></a>
         </h2>
-        <p><b>Advanced Android AI Red-Teaming Engine</b></p>
-        <p>Mobile app for Jailbreaking most Ai models. It generates high-fidelity priming vectors to evaluate LLM safety guardrails, alignment robustness, and boundary security across GPT-4o, Claude 3.5, Grok, Gemini and many others.</p>
+        <p><b>Advanced Android AI Red-Teaming Engine</br></p>
+        <p>Mobile Android App for Jailbreaking most Ai models. It generates high-fidelity prompt priming vectors to evaluate LLM safety guardrails, alignment robustness, and boundary security across GPT-4o, Claude 3.5, Grok, Gemini and many others Ai models.</p>
         <p align="center">
           <a href="https://github.com">
-          <br><img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" />
+            <img src="https://img.shields.io/github/stars/K4N3CO/JailBreak-Ai" />
           </a>
         </p>
       </td>
