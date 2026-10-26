@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/K4N3CO-LABS/K4N3CO-LABS/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/K4N3CO/K4N3CO/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
