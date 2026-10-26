@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/K4N3CO-LABS/K4N3CO-LABS/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 <div align="center">
   <h2>⚡ System Operator</h2>
   <table style="display: inline-block;">
@@ -70,8 +76,6 @@
  </pre>
 </div>
 
----
-
 <div align="center">
   <h2>🏆 Featured Projects:</h2>
 
@@ -129,5 +133,7 @@
 ```
 bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
 ```
-### Thanks!
-> *"The ones who MIND dont matter... The ones who MATTER don't mind..."*
+
+![](https://komarev.com/ghpvc/?username=K4N3CO) 
+### Thanks! 
+
