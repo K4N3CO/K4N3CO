@@ -22,8 +22,7 @@ jobs:
           card: stats
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: >-
-            username=K4N3CO&show_icons=true&theme=synthwave&hide_border=false&bg_color=02080d&title_color=00f2ff&text_color=ffd700&icon_color=39ff14
+          options: "username=K4N3CO&show_icons=true&theme=synthwave&hide_border=false&bg_color=02080d&title_color=00f2ff&text_color=ffd700&icon_color=39ff14"
 
       # Generates the language card
       - name: Generate Top Languages
@@ -32,8 +31,7 @@ jobs:
           card: top-langs
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: >-
-            username=K4N3CO&layout=compact&theme=synthwave&hide_border=true&bg_color=02080d&title_color=00f2ff&text_color=ffd700
+          options: "username=K4N3CO&layout=compact&theme=synthwave&hide_border=true&bg_color=02080d&title_color=00f2ff&text_color=ffd700"
 
       # Saves the newly generated SVGs into your repository
       - name: Commit and Push changes
@@ -42,6 +40,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add profile/stats.svg profile/top-langs.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update profile stats images with valid colors"
+            git commit -m "chore: update stats configurations"
             git push
           fi
