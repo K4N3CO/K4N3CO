@@ -1,0 +1,45 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight
+  workflow_dispatch: # Allows you to run it manually anytime
+
+permissions:
+  contents: write # Allows the bot to save the SVGs to your repository
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # Generates the main stats card
+      - name: Generate Main Stats
+        uses: anuraghazra/github-readme-stats@v2.0.0-rc.3 # Uses the modern underlying generator
+        with:
+          card: stats
+          path: profile/stats.svg
+          options: >-
+            username=K4N3CO&show_icons=true&theme=synthwave&hide_border=false&bg_color=02080d&title_color=00f2ff&text_color=gold&icon_color=39ff14
+
+      # Generates the language card
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@v2.0.0-rc.3
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          options: >-
+            username=K4N3CO&layout=compact&theme=synthwave&hide_border=true&bg_color=02080d&title_color=00f2ff&text_color=gold
+
+      # Saves the newly generated SVGs into your repository
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/stats.svg profile/top-langs.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile stats images"
+            git push
+          fi
