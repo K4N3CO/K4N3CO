@@ -114,9 +114,9 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=K4N3CO&show_icons=true&theme=synthwave&hide_border=true&bg_color=02080d&title_color=00f2ff&text_color=gold&icon_color=39ff14" width="54%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4N3CO&layout=compact&theme=synthwave&hide_border=true&bg_color=02080d&title_color=00f2ff&text_color=gold" width="43%" alt="Top Languages" />
-</p>
+  <img src="./profile/stats.svg" width="54%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="43%" alt="Top Languages" />
+</div>
   
 ---
 
