@@ -116,7 +116,7 @@
   <h2>📊 GitHub Stats:</h2>
   <img src="./profile/stats.svg" width="54%" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" width="43%" alt="Top Languages" />
-</div>
+
   
 ---
 
@@ -135,5 +135,6 @@ bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
 ```
 
 ![](https://komarev.com/ghpvc/?username=K4N3CO) 
-### Thanks! 
+
+### Thanks!
 
