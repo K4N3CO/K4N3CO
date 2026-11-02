@@ -40,6 +40,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add profile/stats.svg profile/top-langs.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update stats configurations"
+            git commit -m "chore: hide border on main stats card"
             git push
           fi
