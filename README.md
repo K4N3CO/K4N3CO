@@ -128,13 +128,6 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a><br>
 
-<img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"> 
-
-```
-bc1q8d66m0qthnh6nw9hc5wl09m7pfydk46q5w8rxx
-```
-
-![](https://komarev.com/ghpvc/?username=K4N3CO) 
-
 ### Thanks!
 
+![](https://komarev.com/ghpvc/?username=K4N3CO)
