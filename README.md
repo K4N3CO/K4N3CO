@@ -55,7 +55,7 @@
   <div align="center">    
   <h2>Projects</h2>
 <pre><div align="left">
-* <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration: none;"><b>Lab-RATS</b></a> - Remote Admin Framework
+* <a href="https://github.com/K4N3CO/Lab-RATS" style="text-decoration: none;"><b>Lab-RATS</b></a> - Remote Admin Framework
 * <a href="https://github.com/K4N3CO/JailBreak-Ai" style="text-decoration: none;"><b>JailBreak-Ai</b></a> - Ai Red-Teaming Suite
 * <a href="https://github.com/K4N3CO/PwnShop-Mobile" style="text-decoration: none;"><b>PwnShop-Mobile</b></a> - Mobile App Hacking/Game
 * <a href="https://github.com/K4N3CO/PWNNET-Toolkit" style="text-decoration: none;"><b>PWNNET-Toolkit</b></a> - Pentesting Toolkit
@@ -83,13 +83,13 @@
     <tr>
       <td width="50%" valign="top" align="center">
         <h2>
-          <a href="https://github.com/K4N3CO/Lab-RATS-v1.6" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">Lab-RATS-v1.6</span></a>
+          <a href="https://github.com/K4N3CO/Lab-RATS" style="text-decoration:none;"><span style="text-decoration:none;color:inherit;">Lab-RATS</span></a>
         </h2>
         <p><b>Lightweight Android-Based Remote Admin Tool for Security<br>(L.A.B-R.A.T.S)</p>
         <p>Tactical Android-C2 relay featuring direct IPv6 peer-to-peer binding, zero-latency reverse long-polling proxy tunneling, covert optics/acoustics surveillance, automated data vault exfiltration & much more.</p>       
         <p align="center">
           <a href="https://github.com">
-            <img src="https://img.shields.io/github/stars/K4N3CO/Lab-RATS-v1.6" />
+            <img src="https://img.shields.io/github/stars/K4N3CO/Lab-RATS" />
           </a>
         </p>
       </td>
